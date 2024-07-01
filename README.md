@@ -57,6 +57,8 @@ seaborn
 Software:
 Jupyter Notebook
 Tableau
+
+
 Insights:
 Customers in Scotland are predominantly males in their late 40s and early 50s, with a low representation of white-collar workers. In contrast, England has a higher representation of white-collar workers. Northern Ireland's customer base is mainly younger females, while data for Wales indicates an above-average representation of mid-sized account balances.
 
